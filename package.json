@@ -60,8 +60,7 @@
   },
   "peerDependencies": {
     "react": ">=0.15.0",
-    "prop-types": ">=15.5.0",
-    "oidc-client": "^1.4.1"
+    "prop-types": ">=15.5.0"
   },
   "optionalDependencies": {
     "immutable": ">=3.6.0"
@@ -72,7 +71,7 @@
     ]
   },
   "dependencies": {
-    "oidc-client": "drakelee/oidc-client-js.git#681726c",
+    "oidc-client": "drakelee/oidc-client-js.git#3aa6ec5",
     "react": "^16.0.0"
   }
 }
