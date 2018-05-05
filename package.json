@@ -71,7 +71,7 @@
     ]
   },
   "dependencies": {
-    "oidc-client": "drakelee/oidc-client-js.git#ba19727",
+    "oidc-client": "drakelee/oidc-client-js.git#f2b5404",
     "react": "^16.0.0"
   }
 }
